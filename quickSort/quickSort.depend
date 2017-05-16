@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1494913538 source:c:\stan\calgorithm\quicksort\main.c
+	<stdio.h>
+	<stdlib.h>
+
