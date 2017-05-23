@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1495520543 source:c:\stan\calgorithm\heapsort\main.c
+	<stdio.h>
+	<stdlib.h>
+
